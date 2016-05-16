@@ -1,3 +1,5 @@
+#this file goes to ~/.config/i3/config 
+
 # Constants
   set $mod Mod4
 
